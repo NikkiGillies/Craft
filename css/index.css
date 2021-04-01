@@ -15,7 +15,7 @@ p {
   background: url("../images/transparency.png");
   background-color: transparent !important;
   background-size: cover;
-  z-index: 10;
+  z-index: 5;
 }
 .navbar-nav {
   margin-left: auto;
@@ -54,7 +54,7 @@ p {
   background-image: url(C:\Users\nikki\OneDrive\Desktop\Coding - activities\WEEK 21\21.1\Craft\images\3 animals.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height: calc(100vh - 25px);
+  height: calc(60vh - 25px);
   display: flex;
   align-items: center;
   justify-content: center;
